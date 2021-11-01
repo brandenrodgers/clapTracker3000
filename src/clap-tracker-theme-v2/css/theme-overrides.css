@@ -396,7 +396,7 @@ tfoot td {
 {###########################################################################}
 
 .header {
-  background-color: {{ header_bg_color }};
+  background-color: #d4f5fc;
 }
 
 .menu__link,
